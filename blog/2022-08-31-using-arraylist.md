@@ -6,6 +6,7 @@ author_url: https://github.com/selimtan
 author_image_url: https://avatars.githubusercontent.com/u/5240006?v=4
 tags: [awe, hola]
 ---
+### Array List
 
 In Tuval Framework, the ArrayList is a non-generic type of List class.
 An ArrayList can be used to add unknown data where you don’t know the types and the size of the data.
