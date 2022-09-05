@@ -3,7 +3,7 @@ id: annotations
 title: Annotations Module
 sidebar_label: Annotations Module
 ---
-
+### Annotations
 The `annotations` module includes a set of Spring-oriented annotations to make it easier to manage some AWE features.
 
 To include this module, just add the dependency to the pom descriptor:
