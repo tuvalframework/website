@@ -24,7 +24,7 @@ module.exports = {
             items: [{
                     type: 'docsVersion',
                     position: 'left',
-                    label: 'Docs',
+                    label: 'Documentation',
                 },
                 {
                     type: 'docsVersionDropdown',
