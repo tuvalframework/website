@@ -96,24 +96,21 @@
                 {
                     "Forms Library (Tuval UI)": [{
                             "type": "category",
-                            "label": "Introduction",
+                            "label": "Layout containers",
                             "collapsed": true,
                             "items": [
-                                "graphics-library/01.01.understanding-tuval",
-                                "graphics-library/01.02.exploring-tuval-functionality",
-                                "graphics-library/01.03.TGFromCanvasPerspective",
-                                "graphics-library/01.04.ClassesInTuvalGraphics"
+                                "forms-library/01.01.hstack",
+                                "forms-library/01.02.vstack",
+                                "forms-library/01.03.zstack",
+                                "forms-library/01.04.scrollview"
                             ]
                         },
                         {
                             "type": "category",
-                            "label": "Your First TGI Application",
+                            "label": "Text input and output",
                             "collapsed": true,
                             "items": [
-                                "graphics-library/02.00.YourFirstTGApplication",
-                                "graphics-library/02.01.DrawingSurfaces",
-                                "graphics-library/02.02.CoordinateSystem",
-                                "graphics-library/02.03.YourFirstTGApplication"
+                                "forms-library/02.01.text"
                             ]
                         },
                         "application-options",
