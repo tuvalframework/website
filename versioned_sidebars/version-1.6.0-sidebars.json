@@ -140,6 +140,15 @@
                                 "forms-library/05.01.padding"
                             ]
                         },
+                        {
+                            "type": "category",
+                            "label": "Components",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/06.01.toggle"
+                            ]
+                            
+                        },
                         "application-options",
                         "session",
                         "logging"
@@ -161,6 +170,15 @@
             "label": "API Reference",
             "items": [
                 "api/screens"
+            ]
+        },
+        {
+            "type": "category",
+            "label": "CodeSandbox",
+            "collapsed": true,
+            "items": [
+                "forms-library/codesandbox/tuval-codesandbox"
+
             ]
         }
     ],

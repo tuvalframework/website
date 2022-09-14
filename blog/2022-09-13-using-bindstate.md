@@ -6,7 +6,7 @@ authors:
   title: Developer
   url: https://github.com/yusufaliselek
   image_url: https://avatars.githubusercontent.com/u/60384021?v=4
-tags: [hola, docusaurus]
+tags: [tuvalframework, js, ts]
 ---
 
 
@@ -36,15 +36,15 @@ Eğer sadece false atasaydık bir kereliğe mahsus bize görünümü gizlemiş o
 
 Bu onClick ile birlikte artık fonksiyonu kullanmaya hazırız.
 
-![](https://cdn-images-1.medium.com/max/2000/1*wJXQD9mPRQQA2DBN9TKhdg.png)
-
 İstediğimiz button görünümüne bu onClick’i atıyoruz:
+
+![](https://cdn-images-1.medium.com/max/2000/1*wJXQD9mPRQQA2DBN9TKhdg.png)
 
 Bu button’daki olayı bir görünüme bağlamamız gerekli. Bu görünümde de .visible() metotunu kullanarak showView değerini içerisine atamamız gerekmektedir.
 
-![](https://cdn-images-1.medium.com/max/2116/1*___v1PjDvXUKbItZiAomwg.png)
-
 Ardından gizlemek veya göstermek istediğimiz öğeyi yapımıza ekliyoruz:
+
+![](https://cdn-images-1.medium.com/max/2116/1*___v1PjDvXUKbItZiAomwg.png)
 
 Kod bloğumuzun en son hali ise şu şekildedir:
 
