@@ -96,21 +96,67 @@
                 {
                     "Forms Library (Tuval UI)": [{
                             "type": "category",
-                            "label": "Layout containers",
+                            "label": "Layout Containers",
                             "collapsed": true,
                             "items": [
                                 "forms-library/01.01.hstack",
                                 "forms-library/01.02.vstack",
                                 "forms-library/01.03.zstack",
-                                "forms-library/01.04.scrollview"
+                                "forms-library/01.04.scrollview",
+                                "forms-library/01.05.stackcustomization"
                             ]
                         },
                         {
                             "type": "category",
-                            "label": "Text input and output",
+                            "label": "Text Input and Output",
                             "collapsed": true,
                             "items": [
-                                "forms-library/02.01.text"
+                                "forms-library/02.01.text",
+                                "forms-library/02.01.01.textcustomization"
+                            ]
+                        },
+                        {
+                            "type": "category",
+                            "label": "Dimensions",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/03.01.width",
+                                "forms-library/03.02.height"
+                            ]
+                        },
+                        {
+                            "type": "category",
+                            "label": "Icons",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/04.01.icons"
+                            ]
+                        },
+                        {
+                            "type": "category",
+                            "label": "Padding",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/05.01.padding"
+                            ]
+                        },
+                        {
+                            "type": "category",
+                            "label": "Components",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/06.01.dropown",
+                                "forms-library/06.02.toggle"
+                            ]
+                        },
+                        {
+                            "type": "category",
+                            "label": "Routes",
+                            "collapsed": true,
+                            "items": [
+                                "forms-library/07.01.route",
+                                "forms-library/07.02.routelink",
+                                "forms-library/07.03.navigator"
                             ]
                         },
                         "application-options",
