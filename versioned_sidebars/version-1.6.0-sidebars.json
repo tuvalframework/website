@@ -140,25 +140,6 @@
                                 "forms-library/05.01.padding"
                             ]
                         },
-                        {
-                            "type": "category",
-                            "label": "Components",
-                            "collapsed": true,
-                            "items": [
-                                "forms-library/06.01.dropown",
-                                "forms-library/06.02.toggle"
-                            ]
-                        },
-                        {
-                            "type": "category",
-                            "label": "Routes",
-                            "collapsed": true,
-                            "items": [
-                                "forms-library/07.01.route",
-                                "forms-library/07.02.routelink",
-                                "forms-library/07.03.navigator"
-                            ]
-                        },
                         "application-options",
                         "session",
                         "logging"
