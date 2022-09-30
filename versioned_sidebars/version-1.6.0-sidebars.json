@@ -145,9 +145,10 @@
                             "label": "Components",
                             "collapsed": true,
                             "items": [
-                                "forms-library/06.01.toggle"
+                                "forms-library/06.01.toggle",
+                                "forms-library/06.02.textfield",
+                                "forms-library/06.03.dropdown"
                             ]
-                            
                         },
                         "application-options",
                         "session",
