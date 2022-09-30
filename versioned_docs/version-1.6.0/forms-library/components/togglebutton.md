@@ -1,0 +1,23 @@
+---
+id: togglebutton
+title: Toggle
+sidebar_label: Toggle
+---
+
+
+Toggles the status of a setting
+
+``` ts
+VStack(
+    Toggle()
+)
+```
+
+#### Toggle Controls
+
+You can control the switch with the **checked**
+``` ts
+VStack(
+    Toggle().checked(true)
+)
+```

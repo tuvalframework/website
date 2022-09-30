@@ -1,10 +1,10 @@
 ---
-id: 06.03.dropdown
-title: Basic Dropdown
+id: dropdown
+title: Dropdown
 sidebar_label: Dropdown
 ---
 
-Select components are used for collecting user provided information from a list of options.
+Dropdown also known as Select, is used to choose an item from a collection of options.
 
 
 ``` ts
