@@ -1,10 +1,5 @@
 ---
 id: togglebutton
-<<<<<<< HEAD
-title: Togglebutton
-sidebar_label: Togglebutton
----
-=======
 title: Toggle
 sidebar_label: Toggle
 ---
@@ -26,4 +21,3 @@ VStack(
     Toggle().checked(true)
 )
 ```
->>>>>>> 8cfc8abacc801497305e9f17207595a4eae098aa
