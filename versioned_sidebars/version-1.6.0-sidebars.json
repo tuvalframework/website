@@ -142,6 +142,234 @@
                         },
                         {
                             "type": "category",
+                            "label": "Charts",
+                            "collapsed": true,
+                            "items": [
+                                {
+                                    "type": "category",
+                                    "label": "Line Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/line/D.01",
+                                        "forms-library/components/charts/line/D.02",
+                                        "forms-library/components/charts/line/D.03",
+                                        "forms-library/components/charts/line/D.04",
+                                        "forms-library/components/charts/line/D.05",
+                                        "forms-library/components/charts/line/D.06",
+                                        "forms-library/components/charts/line/D.07",
+                                        "forms-library/components/charts/line/D.08",
+                                        "forms-library/components/charts/line/D.09",
+                                        "forms-library/components/charts/line/D.10"
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Area Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/area/D.01",
+                                        "forms-library/components/charts/area/D.02",
+                                        "forms-library/components/charts/area/D.03",
+                                        "forms-library/components/charts/area/D.04",
+                                        "forms-library/components/charts/area/D.05",
+                                        "forms-library/components/charts/area/D.06",
+                                        "forms-library/components/charts/area/D.07",
+                                        "forms-library/components/charts/area/D.08"
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Column Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/column/D.01",
+                                        "forms-library/components/charts/column/D.02",
+                                        "forms-library/components/charts/column/D.03",
+                                        "forms-library/components/charts/column/D.04",
+                                        "forms-library/components/charts/column/D.05",
+                                        "forms-library/components/charts/column/D.06",
+                                        "forms-library/components/charts/column/D.07",
+                                        "forms-library/components/charts/column/D.08",
+                                        "forms-library/components/charts/column/D.09",
+                                        "forms-library/components/charts/column/D.10"
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Bar Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/bar/D.01",
+                                        "forms-library/components/charts/bar/D.02",
+                                        "forms-library/components/charts/bar/D.03",
+                                        "forms-library/components/charts/bar/D.04",
+                                        "forms-library/components/charts/bar/D.05",
+                                        "forms-library/components/charts/bar/D.06",
+                                        "forms-library/components/charts/bar/D.07",
+                                        "forms-library/components/charts/bar/D.08",
+                                        "forms-library/components/charts/bar/D.09",
+                                        "forms-library/components/charts/bar/D.10"
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Mixed / Combo Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/combo/D.01",
+                                        "forms-library/components/charts/combo/D.02",
+                                        "forms-library/components/charts/combo/D.03",
+                                        "forms-library/components/charts/combo/D.04",
+                                        "forms-library/components/charts/combo/D.05"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Timeline Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/timeline/D.01",
+                                        "forms-library/components/charts/timeline/D.02",
+                                        "forms-library/components/charts/timeline/D.03",
+                                        "forms-library/components/charts/timeline/D.04",
+                                        "forms-library/components/charts/timeline/D.05"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Candlestick Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/candlestick/D.01",
+                                        "forms-library/components/charts/candlestick/D.02",
+                                        "forms-library/components/charts/candlestick/D.03"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Box & Whisker Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/box/D.01",
+                                        "forms-library/components/charts/box/D.02",
+                                        "forms-library/components/charts/box/D.03"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Pie / Donuts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/pie/D.01",
+                                        "forms-library/components/charts/pie/D.02",
+                                        "forms-library/components/charts/pie/D.03",
+                                        "forms-library/components/charts/pie/D.04",
+                                        "forms-library/components/charts/pie/D.05",
+                                        "forms-library/components/charts/pie/D.06",
+                                        "forms-library/components/charts/pie/D.07",
+                                        "forms-library/components/charts/pie/D.08"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Radar Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/radar/D.01",
+                                        "forms-library/components/charts/radar/D.02",
+                                        "forms-library/components/charts/radar/D.03"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Polar Area Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/polar/D.01",
+                                        "forms-library/components/charts/polar/D.02"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Radialbars / Circle Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/radialbars/D.01",
+                                        "forms-library/components/charts/radialbars/D.02",
+                                        "forms-library/components/charts/radialbars/D.03",
+                                        "forms-library/components/charts/radialbars/D.04",
+                                        "forms-library/components/charts/radialbars/D.05",
+                                        "forms-library/components/charts/radialbars/D.06",
+                                        "forms-library/components/charts/radialbars/D.07"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Bubble Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/bubble/D.01",
+                                        "forms-library/components/charts/bubble/D.02"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Scatter Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/scatter/D.01",
+                                        "forms-library/components/charts/scatter/D.02",
+                                        "forms-library/components/charts/scatter/D.03"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Heatmap Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/heatmap/D.01",
+                                        "forms-library/components/charts/heatmap/D.02",
+                                        "forms-library/components/charts/heatmap/D.03",
+                                        "forms-library/components/charts/heatmap/D.04",
+                                        "forms-library/components/charts/heatmap/D.05"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Treemap Charts",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/treemap/D.01",
+                                        "forms-library/components/charts/treemap/D.02",
+                                        "forms-library/components/charts/treemap/D.03",
+                                        "forms-library/components/charts/treemap/D.04"
+                                      
+                                    ]
+                                },
+                                {
+                                    "type": "category",
+                                    "label": "Sparklines",
+                                    "collapsed": true,
+                                    "items": [
+                                        "forms-library/components/charts/sparklines/D.01"
+                                      
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "category",
                             "label": "Components",
                             "collapsed": true,
                             "items": [
@@ -213,15 +441,7 @@
                                 "forms-library/components/steps",
                                 "forms-library/components/megamenu",
                                 "forms-library/components/slidemenu",
-                                "forms-library/components/dock",
-                                {
-                                    "type": "category",
-                                    "label": "CHARTS",
-                                    "collapsed": true,
-                                    "items": [
-                                        "forms-library/components/charts/line"
-                                    ]
-                                }
+                                "forms-library/components/dock"
                             ]
                         },
                         "application-options",
