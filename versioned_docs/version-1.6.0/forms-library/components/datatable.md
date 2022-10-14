@@ -1,5 +1,5 @@
 ---
 id: datatable
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Datatable
+sidebar_label: Datatable
 ---

@@ -1,5 +1,5 @@
 ---
 id: breadcrumb
-title: Autocomplete
-sidebar_label: Autocomplete
+title: breadcrumb
+sidebar_label: breadcrumb
 ---

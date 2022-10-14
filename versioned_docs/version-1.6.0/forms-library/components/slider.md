@@ -1,5 +1,5 @@
 ---
 id: slider
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Slider
+sidebar_label: Slider
 ---

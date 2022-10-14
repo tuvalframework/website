@@ -1,5 +1,5 @@
 ---
 id: togglebutton
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Togglebutton
+sidebar_label: Togglebutton
 ---

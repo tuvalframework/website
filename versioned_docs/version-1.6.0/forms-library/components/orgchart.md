@@ -1,5 +1,5 @@
 ---
 id: orgchart
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Orgchart
+sidebar_label: Orgchart
 ---

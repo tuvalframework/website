@@ -1,5 +1,5 @@
 ---
 id: password
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Password
+sidebar_label: Password
 ---

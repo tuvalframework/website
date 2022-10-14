@@ -1,5 +1,5 @@
 ---
 id: tabview
-title: Autocomplete
-sidebar_label: Autocomplete
+title: tabview
+sidebar_label: tabview
 ---

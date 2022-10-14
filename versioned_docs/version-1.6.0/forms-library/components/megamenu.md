@@ -1,5 +1,5 @@
 ---
 id: megamenu
-title: Autocomplete
-sidebar_label: Autocomplete
+title: megamenu
+sidebar_label: megamenu
 ---

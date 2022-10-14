@@ -1,5 +1,5 @@
 ---
 id: treeselect
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Treeselect
+sidebar_label: Treeselect
 ---

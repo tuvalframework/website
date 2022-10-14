@@ -1,5 +1,5 @@
 ---
 id: deferred
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Deferred
+sidebar_label: Deferred
 ---

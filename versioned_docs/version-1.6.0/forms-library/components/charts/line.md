@@ -1,5 +1,5 @@
 ---
 id: line
-title: Autocomplete
-sidebar_label: Autocomplete
+title: line
+sidebar_label: line
 ---

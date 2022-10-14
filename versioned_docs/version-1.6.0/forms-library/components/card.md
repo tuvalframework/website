@@ -1,5 +1,5 @@
 ---
 id: card
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Card
+sidebar_label: Card
 ---

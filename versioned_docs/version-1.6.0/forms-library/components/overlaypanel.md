@@ -1,5 +1,5 @@
 ---
 id: overlaypanel
-title: Autocomplete
-sidebar_label: Autocomplete
+title: overlaypanel
+sidebar_label: overlaypanel
 ---

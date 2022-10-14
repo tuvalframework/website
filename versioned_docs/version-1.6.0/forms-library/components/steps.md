@@ -1,5 +1,5 @@
 ---
 id: steps
-title: Autocomplete
-sidebar_label: Autocomplete
+title: steps
+sidebar_label: steps
 ---

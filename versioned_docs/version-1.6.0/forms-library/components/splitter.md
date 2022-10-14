@@ -1,5 +1,5 @@
 ---
 id: splitter
-title: Autocomplete
-sidebar_label: Autocomplete
+title: splitter
+sidebar_label: splitter
 ---

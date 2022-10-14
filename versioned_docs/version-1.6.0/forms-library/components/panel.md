@@ -1,5 +1,5 @@
 ---
 id: panel
-title: Autocomplete
-sidebar_label: Autocomplete
+title: panel
+sidebar_label: panel
 ---

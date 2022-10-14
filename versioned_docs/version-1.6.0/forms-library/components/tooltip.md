@@ -1,5 +1,5 @@
 ---
 id: tooltip
-title: Autocomplete
-sidebar_label: Autocomplete
+title: tooltip
+sidebar_label: tooltip
 ---

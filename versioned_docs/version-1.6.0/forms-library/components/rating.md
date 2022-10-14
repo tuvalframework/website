@@ -1,5 +1,5 @@
 ---
 id: rating
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Rating
+sidebar_label: Rating
 ---

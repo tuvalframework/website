@@ -1,5 +1,5 @@
 ---
 id: radiobutton
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Radiobutton
+sidebar_label: Radiobutton
 ---

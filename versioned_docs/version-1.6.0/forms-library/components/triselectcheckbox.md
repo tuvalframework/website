@@ -1,5 +1,5 @@
 ---
 id: triselectcheckbox
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Triselectcheckbox
+sidebar_label: Triselectcheckbox
 ---

@@ -1,5 +1,5 @@
 ---
 id: tieredmenu
-title: Autocomplete
-sidebar_label: Autocomplete
+title: tieredmenu
+sidebar_label: tieredmenu
 ---

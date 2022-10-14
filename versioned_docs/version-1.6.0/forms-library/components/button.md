@@ -1,5 +1,5 @@
 ---
 id: button
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Button
+sidebar_label: Button
 ---

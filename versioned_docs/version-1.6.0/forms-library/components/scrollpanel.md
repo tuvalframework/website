@@ -1,5 +1,5 @@
 ---
 id: scrollpanel
-title: Autocomplete
-sidebar_label: Autocomplete
+title: scrollpanel
+sidebar_label: scrollpanel
 ---

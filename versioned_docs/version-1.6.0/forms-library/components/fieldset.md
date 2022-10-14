@@ -1,5 +1,5 @@
 ---
 id: fieldset
-title: Autocomplete
-sidebar_label: Autocomplete
+title: fieldset
+sidebar_label: fieldset
 ---

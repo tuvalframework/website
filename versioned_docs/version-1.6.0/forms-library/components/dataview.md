@@ -1,5 +1,5 @@
 ---
 id: dataview
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Dataview
+sidebar_label: Dataview
 ---

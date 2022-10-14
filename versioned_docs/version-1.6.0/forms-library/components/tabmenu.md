@@ -1,5 +1,5 @@
 ---
 id: tabmenu
-title: Autocomplete
-sidebar_label: Autocomplete
+title: tabmenu
+sidebar_label: tabmenu
 ---

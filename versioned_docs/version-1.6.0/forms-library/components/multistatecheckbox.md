@@ -1,5 +1,5 @@
 ---
 id: multistatecheckbox
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Multistatecheckbox
+sidebar_label: Multistatecheckbox
 ---

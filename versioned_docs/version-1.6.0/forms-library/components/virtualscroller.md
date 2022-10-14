@@ -1,5 +1,5 @@
 ---
 id: virtualscroller
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Virtualscroller
+sidebar_label: Virtualscroller
 ---

@@ -1,5 +1,5 @@
 ---
 id: speeddial
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Speeddial
+sidebar_label: Speeddial
 ---

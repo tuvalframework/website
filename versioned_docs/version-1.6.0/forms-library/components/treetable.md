@@ -1,5 +1,5 @@
 ---
 id: treetable
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Treetable
+sidebar_label: Treetable
 ---

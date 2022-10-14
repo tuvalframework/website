@@ -1,5 +1,5 @@
 ---
 id: sidebar
-title: Autocomplete
-sidebar_label: Autocomplete
+title: sidebar
+sidebar_label: sidebar
 ---

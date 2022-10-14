@@ -1,5 +1,5 @@
 ---
 id: colorpicker
-title: Autocomplete
-sidebar_label: Autocomplete
+title: colorpicker
+sidebar_label: colorpicker
 ---

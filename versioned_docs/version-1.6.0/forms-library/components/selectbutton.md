@@ -1,5 +1,5 @@
 ---
 id: selectbutton
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Selectbutton
+sidebar_label: Selectbutton
 ---

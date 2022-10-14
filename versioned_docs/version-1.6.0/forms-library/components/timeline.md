@@ -1,5 +1,5 @@
 ---
 id: timeline
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Timeline
+sidebar_label: Timeline
 ---

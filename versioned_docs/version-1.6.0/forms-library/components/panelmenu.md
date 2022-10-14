@@ -1,5 +1,5 @@
 ---
 id: panelmenu
-title: Autocomplete
-sidebar_label: Autocomplete
+title: panelmenu
+sidebar_label: panelmenu
 ---

@@ -1,5 +1,5 @@
 ---
 id: contextmenu
-title: Autocomplete
-sidebar_label: Autocomplete
+title: contextmenu
+sidebar_label: contextmenu
 ---

@@ -1,5 +1,5 @@
 ---
 id: splitbutton
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Splitbutton
+sidebar_label: Splitbutton
 ---

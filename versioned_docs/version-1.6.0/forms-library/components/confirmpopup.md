@@ -1,5 +1,5 @@
 ---
 id: confirmpopup
-title: Autocomplete
-sidebar_label: Autocomplete
+title: confirmpopup
+sidebar_label: confirmpopup
 ---

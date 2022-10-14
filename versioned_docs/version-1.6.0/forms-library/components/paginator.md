@@ -1,5 +1,5 @@
 ---
 id: paginator
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Paginator
+sidebar_label: Paginator
 ---

@@ -1,5 +1,5 @@
 ---
 id: accordion
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Accordion
+sidebar_label: Accordion
 ---

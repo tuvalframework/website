@@ -1,5 +1,5 @@
 ---
 id: picklist
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Picklist
+sidebar_label: Picklist
 ---

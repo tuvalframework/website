@@ -1,5 +1,5 @@
 ---
 id: datascroller
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Datascroller
+sidebar_label: Datascroller
 ---

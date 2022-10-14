@@ -1,5 +1,5 @@
 ---
 id: dialog
-title: Autocomplete
-sidebar_label: Autocomplete
+title: dialog
+sidebar_label: dialog
 ---

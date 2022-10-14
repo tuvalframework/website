@@ -1,5 +1,5 @@
 ---
 id: tree
-title: Autocomplete
-sidebar_label: Autocomplete
+title: Tree
+sidebar_label: Tree
 ---
